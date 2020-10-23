@@ -1,0 +1,13 @@
+¿Qué es el staging y los repositorios? Ciclo básico de trabajo en Git
+Para iniciar un repositorio, o sea, activar el sistema de control de versiones de Git 
+en tu proyecto, solo debes ejecutar el comando git init.
+
+cambio para probar el checkout en git 
+
+<<<<<<< HEAD
+otra linea para difernciar los cambios
+=======
+otra linea para difernciar los cambios
+
+linea para probar git reset head
+>>>>>>> cabecera
